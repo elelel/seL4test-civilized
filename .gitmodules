@@ -1,0 +1,30 @@
+[submodule "modules/musllibc"]
+	path = modules/musllibc
+	url = https://github.com/seL4/musllibc.git
+[submodule "modules/seL4_libs"]
+	path = modules/seL4_libs
+	url = https://github.com/seL4/seL4_libs.git
+[submodule "modules/sel4_projects_libs"]
+	path = modules/sel4_projects_libs
+	url = https://github.com/seL4/sel4_projects_libs
+[submodule "modules/sel4runtime"]
+	path = modules/sel4runtime
+	url = https://github.com/seL4/sel4runtime.git
+[submodule "modules/sel4test"]
+	path = modules/sel4test
+	url = https://github.com/seL4/sel4test.git
+[submodule "modules/util_libs"]
+	path = modules/util_libs
+	url = https://github.com/seL4/util_libs.git
+[submodule "modules/seL4"]
+	path = modules/seL4
+	url = https://github.com/seL4/seL4.git
+[submodule "modules/seL4_tools"]
+	path = modules/seL4_tools
+	url = https://github.com/seL4/seL4_tools
+[submodule "modules/nanopb"]
+	path = modules/nanopb
+	url = https://github.com/nanopb/nanopb
+[submodule "modules/opensbi"]
+	path = modules/opensbi
+	url = https://github.com/riscv/opensbi
